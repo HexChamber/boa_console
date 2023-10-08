@@ -8,6 +8,11 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+web3 = "^6.10.0"
+eth-tester = "^0.9.1b1"
+ipython = "^8.16.1"
+inquirerpy = "^0.3.4"
+python-dotenv = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 

@@ -1,1 +1,1 @@
-from boa_console import boa_console
+from boa_console import boa
